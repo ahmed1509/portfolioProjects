@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,yahooo,OH,10.00,Carpet,10.00,5.00,10.00,50.00,100.00,15.00,165.00,

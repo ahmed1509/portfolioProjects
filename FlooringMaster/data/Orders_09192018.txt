@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Ahmed,OH,6.25,Carpet,50,2.25,2.10,112.50,105.00,13.59,231.09,
+2,ahskj,OH,6.25,Carpet,456,2.25,2.10,1026.00,957.60,123.98,2107.58,

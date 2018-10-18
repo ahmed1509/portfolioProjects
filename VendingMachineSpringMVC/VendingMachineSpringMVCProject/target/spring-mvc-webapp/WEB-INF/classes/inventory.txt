@@ -1,0 +1,6 @@
+Ice Team,23,200
+snicker,1,400
+Sprite,5,600
+Chips,4,200
+Candy,9,100
+Tuna Salad,5,900
