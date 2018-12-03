@@ -1,0 +1,12 @@
+To run this program, you will need an IDE. Once you run the program, a message will be prompt. Enter the company and the guest name. 
+In the view, there will be some type of user-input validation. From there, a message will be populated for the guest.
+
+In this Application, I chose Java. Honestly, I chose this language because I feel comfortable using it and building it with different applications. 
+Most of all, java is free and have many resources out there. 
+In this case study, there is a one of the requirements I haven’t fulfilled yet, but I will finish it some other day because it’s interesting
+and requires a little bit of logic. 
+
+This application prints message and takes input from the user. In the data layer, I am using json to read the data from and storing it in the dto.
+In my dao, that’s where I am reading from the json file and making sure the data flow is good. 
+Otherwise, I throw multiple exceptions to let the user know the file is null.
+From there on I use the view to print message or read from the user then send it the controller.
